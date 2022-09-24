@@ -1,16 +1,6 @@
+<div align="center">
 
-## Welcome 🌱     [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://ghrnwjd.tistory.com/)
-
-![hoyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ghrnwjd&show_icons=true&theme=dark)
-
-<!--
-**ghrnwjd/ghrnwjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-
-## :octocat: Once I've used
-
+### :octocat: Once I've used
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,8 +20,11 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+
 <br>
 
-## :mailbox_with_mail: About Me
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pon07060@gmail.com)](mailto:pon07060@gmail.com)
-<br>
+### :mailbox_with_mail: About Me
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pon07060@gmail.com)](mailto:pon07060@gmail.com) 
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://ghrnwjd.tistory.com/)
+</div>
