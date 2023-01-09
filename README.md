@@ -1,5 +1,8 @@
 <div align="center">
+  
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY&theme=dark)](https://ghrnwjd.tistory.com/)
 
+  <!--
 ### stack :)
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -20,7 +23,8 @@
 
 
 ### about me :( 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory&theme=dark)](https://ghrnwjd.tistory.com/)
+-->
+
 
 
 
